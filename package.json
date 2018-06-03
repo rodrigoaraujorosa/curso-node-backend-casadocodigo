@@ -1,0 +1,19 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "Site da Casa do Código (Curso Node.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoaraujorosa/curso-node-backend-casadocodigo.git"
+  },
+  "author": "Rodrigo de Araújo Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoaraujorosa/curso-node-backend-casadocodigo/issues"
+  },
+  "homepage": "https://github.com/rodrigoaraujorosa/curso-node-backend-casadocodigo#readme"
+}
